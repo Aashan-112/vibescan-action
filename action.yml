@@ -1,9 +1,5 @@
 name: VibeScan Security Scanner
-description: >
-  Automated security scanning for vibe-coded apps built with Lovable,
-  Bolt.new, v0, and Replit — plus mobile, LLM/AI, and cloud-native
-  vulnerability detection. Validated against 91 real-world repositories
-  including OWASP Benchmark apps and documented CVEs.
+description: 'Security scanner for vibe-coded (Lovable, Bolt.new, v0, Replit), mobile, LLM, and cloud-native apps.'
 
 author: VibeScan
 branding:
